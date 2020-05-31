@@ -4,8 +4,12 @@
 
 ## Содержание
 
-1 [Документация](Documentation)
+* [Документация](Documentation)
 
-2 [Код](Code)
+  * [Требования](Requirements)
 
-3 [Тестирование](Testing)
+  * [Диаграммы](Diagrams)
+
+* [Код](Code)
+
+* [Тестирование](Testing)
