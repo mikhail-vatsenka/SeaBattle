@@ -1,2 +1,3 @@
-# SeaBattle
-The network game "Sea Battle" for the Android OS
+# "Sea battle"
+
+>"Sea battle" - это логическая игра «Морской бой» для ОС Android с возможностью игры по локальной сети WiFi.
