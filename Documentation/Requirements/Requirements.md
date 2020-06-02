@@ -23,17 +23,33 @@
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
 Присутствует интерфейс для связи графической оболочки с логической частью приложения.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-* Вид с собственным игровым полем.
+* Вид при вводе имени в сети. Появляется после старта приложения.
 
-Данный вид информирует пользователя о текущем состоянии его флота. Отображается как во время расстановки кораблей пользователем на начальном этапе, так и во время игровой сессии: например, когда "ходит" соперник.
+![Name entering](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/name_entering.png)
 
-  ![My Arena]()
+* Вид при расстановке кораблей:
 
-* Вид с игровым полем соперника.
+![Positioning ships](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/positioning_ships.png)
+
+* Вид при выборе соперника. Появляется после успешной проаерки расстановки кораблей на поле.
+
+![Enemy selecting](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/enemy_selecting.png)
+
+* Вид с собственным игровым полем:
+
+Данный вид информирует пользователя о текущем состоянии его флота. Отображается во время игровой сессии: например, когда "ходит" соперник.
+
+![My fleet](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/my_fleet.png)
+
+* Вид с игровым полем соперника:
 
 Данный вид информирует пользователя о флоте соперника. На виде отображаются все предыдущие промахи и попадания пользователя по сопернику. Отображается только во время игровой сессии, когда "ходит" пользователь.
 
-  ![Enemy Arena]()
+![Enemy fleet](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/enemy_fleet.png)
+
+* Вид окна подтверждения выхода. Отображается после нажатия на кнопку "Выход":
+
+![Exit confirmation](https://github.com/mikhail-vatsenka/SeaBattle/blob/master/Documentation/Images/exit.png)
 
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
