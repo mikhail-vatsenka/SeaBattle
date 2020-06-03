@@ -4,10 +4,10 @@
 
 ## Содержание
 
-* [Документация](Documentation)
+* [Документация](https://github.com/mikhail-vatsenka/SeaBattle/tree/master/Documentation)
 
-  * [Требования](Requirements)
+  * [Требования](https://github.com/mikhail-vatsenka/SeaBattle/tree/master/Documentation/Requirements)
 
-  * [Диаграммы](Diagrams)
+  * [Диаграммы](https://github.com/mikhail-vatsenka/SeaBattle/tree/master/Documentation/Diagrams)
 
-* [Тестирование](Testing)
+* [Тестирование](https://github.com/mikhail-vatsenka/SeaBattle/tree/master/Testing)
